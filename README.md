@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1 align="center">Hi 👋, I'm Murat Bıyık</h1>
-<h3 align="center">Tutkulu Bir Software Test Engineer</h3>
+<h3 align="center">Software Test Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratbiyikk&label=Profile%20views&color=0e75b6&style=flat" alt="muratbiyikk" /> </p>
 
